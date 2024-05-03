@@ -1,8 +1,0 @@
-name: exe1
-on: push
-jobs: 
-  exe_jb1:
-    runs-on: ubuntu-latest
-    steps:
-    - name: to print the name of the handsome man
-      run: echo "Pavithran"
